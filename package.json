@@ -1,0 +1,26 @@
+{
+  "name": "study-typescript",
+  "version": "1.0.0",
+  "description": "Фамилия имя: Петухова Мария\r id: i24s0208",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atoshicka/typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/atoshicka/typescript/issues"
+  },
+  "homepage": "https://github.com/atoshicka/typescript#readme",
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
